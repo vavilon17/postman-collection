@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "eb2d260d-87c6-4512-bab5-c4df3c691ad9",
+		"name": "ParentCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3199736"
+	},
+	"item": [
+		{
+			"name": "Folder1",
+			"item": [
+				{
+					"name": "Google Maps",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://www.google.com/maps",
+							"protocol": "https",
+							"host": [
+								"www",
+								"google",
+								"com"
+							],
+							"path": [
+								"maps"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Folder2",
+			"item": []
+		}
+	]
+}
